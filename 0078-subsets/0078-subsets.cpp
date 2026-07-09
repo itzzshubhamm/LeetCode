@@ -3,7 +3,7 @@ public:
 
      vector<vector<int>> answer;
    
-     void subsetsCreator(vector<int>& nums , vector<int> curr , int index){
+     void subsetsCreator(vector<int>& nums , vector<int>& curr , int index){
 
         if(index == nums.size()){
             answer.push_back(curr);

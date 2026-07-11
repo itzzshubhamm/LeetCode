@@ -16,9 +16,11 @@ public:
             return;
         }
 
+        if(candidates[index] <= target){
         currentArray.push_back(candidates[index]);
         combinationHelper(candidates , target - candidates[index] , currentArray , index);
         currentArray.pop_back();
+        }
         combinationHelper(candidates , target , currentArray , index+1);
        
     }

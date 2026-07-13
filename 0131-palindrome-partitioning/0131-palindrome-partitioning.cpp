@@ -32,6 +32,10 @@ public:
 
 
     vector<vector<string>> partition(string s) {
+        if(s.empty()){
+            return answerToReturn;
+        }
+        
         vector<string> currString;
         palindromePartitioning(s , 0 , currString);
         return answerToReturn;

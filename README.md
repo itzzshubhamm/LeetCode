@@ -28,6 +28,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/itzzshubhamm/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/itzzshubhamm/LeetCode/tree/master/0198-house-robber) |
 ## Stack
@@ -90,6 +91,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
@@ -116,4 +118,8 @@
 | ------- |
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

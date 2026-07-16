@@ -1,16 +1,19 @@
 class Solution {
 public:
-    int solve(vector<int>& nums , int index , vector<int>& dp , int maxSize){
+    int solve(vector<int>& nums, int start , int maxSize){
 
-        if(index >= maxSize){
-            return 0;
+        int next1 = nums[maxSize-1]; 
+        int next2 = 0;
+        int current;
+        for(int i = maxSize-2 ; i>=start ; i-- ){
+            current = max(nums[i] + next2 , next1);
+            next2 = next1;
+            next1 = current;
         }
 
-        if(dp[index] != -1){
-           return dp[index];
-        }
+      
 
-        return dp[index] =  max(nums[index] + solve(nums , index+2 , dp , maxSize) , solve(nums , index+1 , dp , maxSize));
+        return current;
  
     }
 
@@ -25,12 +28,16 @@ public:
        if(n==0){
         return 0;
        }
+       if(n==2){
+        return max(nums[0],nums[1]);
+       }
+
+
+
        int m = nums.size() - 1;
 
-        vector<int> dp1(n , -1);
-        vector<int> dp2(n , -1);
 
-        return max(solve(nums , 0 , dp1 , m) , solve(nums , 1 , dp2 , n) );
+        return max(solve(nums , 0  , m) , solve(nums , 1  , n) );
 
         
     }

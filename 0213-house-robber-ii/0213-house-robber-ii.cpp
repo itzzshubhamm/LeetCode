@@ -20,16 +20,17 @@ public:
 
     int rob(vector<int>& nums) {
         
+       int n = nums.size();
 
        if(nums.size() == 1){
         return nums[0];
        }
-       if(nums.size()==0){
+       if(n==0){
         return 0;
        }
 
 
-        return max(solve(nums , 0  , nums.size() - 1) , solve(nums , 1  , nums.size()) );
+        return max(solve(nums , 0  , nums.size() - 1) , solve(nums , 1  , n) );
 
         
     }

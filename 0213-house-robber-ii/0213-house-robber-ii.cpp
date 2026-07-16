@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int start , int maxSize){
+    int solve(vector<int>& nums, int start , int end){
 
-        int next1 = nums[maxSize-1]; 
+        int next1 = 0; 
         int next2 = 0;
         int current;
-        for(int i = maxSize-2 ; i>=start ; i-- ){
+        for(int i = end-1 ; i>=start ; i-- ){
             current = max(nums[i] + next2 , next1);
             next2 = next1;
             next1 = current;
@@ -28,10 +28,6 @@ public:
        if(n==0){
         return 0;
        }
-       if(n==2){
-        return max(nums[0],nums[1]);
-       }
-
 
 
        int m = nums.size() - 1;

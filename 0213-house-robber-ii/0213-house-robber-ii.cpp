@@ -30,10 +30,7 @@ public:
        }
 
 
-       int m = nums.size() - 1;
-
-
-        return max(solve(nums , 0  , m) , solve(nums , 1  , n) );
+        return max(solve(nums , 0  , nums.size() - 1) , solve(nums , 1  , n) );
 
         
     }

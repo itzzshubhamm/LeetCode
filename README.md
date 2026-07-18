@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itzzshubhamm/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/itzzshubhamm/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzzshubhamm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
@@ -117,6 +118,7 @@
 | [0039-combination-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/itzzshubhamm/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/itzzshubhamm/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |

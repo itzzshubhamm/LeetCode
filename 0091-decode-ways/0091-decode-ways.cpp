@@ -1,36 +1,37 @@
 class Solution {
 public:
 
-    int ways(string& s , int index , vector<int>& dp){
+    int ways(string& s ){
+        int n = s.size();
 
-        if(index == s.size()){
-            return 1;
-        }
-        if(s[index] == '0'){
-            return 0;
-        }
-        if(dp[index] != -1){
-            return dp[index];
-        }
+        int next2=1;
+        int next1 = s[n-1] == '0' ? 0 : 1;
+        int answer = 0;
 
-        int way = ways(s , index+1 , dp);
+        for(int i = n-2 ; i >= 0 ; i--){
 
-        if(index+1 != s.size()){
-            int num = ((s[index] - '0')*10 + s[index+1]-'0');
+            if(s[i] == '0'){
+               answer = 0;
+            }else{
+            answer = next1;
 
-            if( 10 <= num && num <= 26){
-               way += ways(s , index+2 , dp);
+            int num = ((s[i] - '0')*10) + (s[i+1] - '0');
+            if(num >= 10 && num <= 26){
+                answer += next2;
             }
+            }
+
+            next2 = next1;
+            next1 = answer;
         }
 
+        return answer;
 
-        return dp[index] = way;
     }
 
 
     int numDecodings(string s) {
 
-        vector<int> dp(s.size() , -1);
 
         if(s.size() == 0){
             return 0;
@@ -42,7 +43,7 @@ public:
             else return 1;
         }
 
-        return ways(s , 0 , dp);
+        return ways(s);
  
     }
 };

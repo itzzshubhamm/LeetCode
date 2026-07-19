@@ -1,41 +1,40 @@
 class Solution {
 public:
-    int solve(vector<int>& coins , int index , int amount , vector<vector<int>>& dp){
+    const int INF = 1e9;
+    int solve(vector<int>& coins , int amount , vector<int>& dp){
 
         if(amount == 0){
             return 0;
         }
         if(amount < 0){
-            return INT_MAX;
+            return INF;
         }
-        if(index >= coins.size()){
-            return INT_MAX;
-        }
-
-        if(dp[index][amount] != -1 ){
-          return dp[index][amount]; 
+        if(dp[amount] != -1 ){
+          return dp[amount];
         }
 
-        int coinCount = solve(coins , index , amount - coins[index] , dp);
+        int answer = INF;
 
-        if(coinCount != INT_MAX){
-            coinCount += 1;
-        }  
+        for(int coin : coins){
 
-        return dp[index][amount] = min( coinCount , solve(coins , index+1 , amount , dp) );
+            answer = min (answer , 1 + solve(coins , amount - coin , dp ));
 
+        }
+
+
+        return dp[amount] = answer;
+
+    
     }
 
 
     int coinChange(vector<int>& coins, int amount) {
-
-       int n = coins.size(); 
    
-       vector<vector<int>> dp( n , vector<int> (amount+1 , -1));
+       vector<int> dp( amount+1 , -1);
  
-       int ans = solve(coins, 0, amount, dp);
+       int ans = solve(coins, amount, dp);
 
-       if(ans != INT_MAX){
+       if(ans != INF){
         return ans;
        }
        else{

@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int solve(string& s , unordered_set<string>& wordDict , int start , vector<int>& dp){
+    bool solve(string& s , unordered_set<string>& wordDict , int start , vector<int>& dp){
        
        if(start == s.size()){
          return true;
@@ -25,12 +25,8 @@ public:
     bool wordBreak(string s, vector<string>& wordDict) {
         unordered_set<string> words( wordDict.begin() , wordDict.end());
         vector<int> dp(s.size() , -1);
-        int ans = solve(s, words ,0 ,dp);
+        return  solve(s, words ,0 ,dp);
         
-        if(ans == 1){
-            return true;
-        }else{
-           return false;
-        }
+        
     }
 };

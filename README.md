@@ -13,6 +13,7 @@
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzzshubhamm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/itzzshubhamm/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0213-house-robber-ii) |
@@ -37,6 +38,7 @@
 | [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/itzzshubhamm/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/itzzshubhamm/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
@@ -62,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/itzzshubhamm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/itzzshubhamm/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
@@ -74,6 +77,7 @@
 | [0076-minimum-window-substring](https://github.com/itzzshubhamm/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/itzzshubhamm/LeetCode/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -135,8 +139,13 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

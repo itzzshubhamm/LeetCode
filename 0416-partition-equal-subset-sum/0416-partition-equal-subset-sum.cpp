@@ -1,22 +1,32 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums , int index , int remainingSum , vector<vector<int>>& dp){
+    bool solve(vector<int>& nums , int index , int remainingSum , vector<vector<bool>>& dp){
+        int n = nums.size();
 
-        if(remainingSum == 0){
-           return true; 
-        }
-        if(remainingSum < 0){
-           return false; 
-        }
-        if(index >= nums.size()){
+        if(index >= n ){
             return false;
         }
-        if(dp[index][remainingSum] != -1){
-            return dp[index][remainingSum];
-        }
-    
 
-        return dp[index][remainingSum] = solve(nums, index+1, remainingSum - nums[index], dp) || solve(nums, index+1, remainingSum, dp);
+        for(int i=0 ; i <= n; i++){
+            dp[i][0] = true;
+        }
+
+        for(int i = 1 ; i <= remainingSum ; i++ ){
+            dp[n][i] = false;
+        }
+
+
+        for(int i = n-1; i >= 0 ; i-- ){
+            for(int j = remainingSum ; j >= 0 ; j--){
+                bool take = false;
+                if(j >= nums[i]){
+                    take = dp[i+1][j - nums[i]];
+                }
+                dp[i][j]= take || dp[i+1][j];
+            }
+        } 
+
+        return dp[0][remainingSum];
     }
 
 
@@ -31,7 +41,7 @@ public:
             return false;
         }
 
-        vector<vector<int>> dp(nums.size() , vector<int> (totalSum , -1));
+        vector<vector<bool>> dp(nums.size()+1 , vector<bool> (totalSum , false));
         
         return solve(nums, 0, totalSum/2 , dp);
     }

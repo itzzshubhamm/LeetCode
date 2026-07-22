@@ -1,21 +1,25 @@
 class Solution {
 public:
     int solve(vector<int>& nums , int index , int prevIndex , vector<vector<int>>& dp){
+        int n = nums.size();
+       
+       for(int i = -1 ; i <= n-1 ; i++){
+           dp[n][i+1] = 0;
+       }
 
-        if(index == nums.size()){
-           return 0;
+
+       for(int i = n-1 ; i >= 0 ; i--){
+        for(int j = i-1 ; j >= -1 ; j--){
+            int take=0;
+            if(j == -1 || nums[j] < nums[i] ){
+                take = 1 + dp[i+1][i+1];
+            }
+            dp[i][j+1] = max(take , dp[i+1][j+1]);
         }
 
-        if(dp[index][prevIndex+1] != -1){
-            return dp[index][prevIndex+1];
-        }
+       }
 
-        int take=0;
-        
-        if(prevIndex == -1 || (nums[prevIndex] < nums[index])){
-            take = 1 + solve(nums, index+1, index,dp);
-        }
-        return dp[index][prevIndex+1] = max(take , solve(nums, index+1, prevIndex, dp));
+       return dp[0][0];
     }
 
 

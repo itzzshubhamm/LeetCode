@@ -48,6 +48,7 @@
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
+| [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |

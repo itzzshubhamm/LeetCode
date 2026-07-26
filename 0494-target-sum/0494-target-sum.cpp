@@ -1,20 +1,24 @@
 class Solution {
 public:
-    int solve(vector<int>& nums , int target , int index , int curr){
+    int solve(vector<int>& nums , int target , int index , int curr , int offset , vector<vector<int>>& dp ){
         int n = nums.size();
-        
-        if(target == curr && index == n){
-            return 1;
-        }        
+               
         if(index == n){
-            return 0;
+            return curr == target;
         }
 
-        return solve(nums , target , index+1 , curr - nums[index]) + solve(nums , target , index+1 , curr + nums[index]);
+        if(dp[index][curr + offset] != -1){
+            return dp[index][curr + offset];
+        }
+
+        return dp[index][curr + offset] = solve(nums , target , index+1 ,  curr - nums[index] , offset , dp) + solve(nums , target , index+1 , curr + nums[index] , offset , dp);
 
     }
 
     int findTargetSumWays(vector<int>& nums, int target) {
-        return solve(nums , target , 0 , 0);
+        int offset = accumulate(nums.begin() , nums.end() , 0);
+
+        vector<vector<int>> dp( nums.size() + 1 , vector<int> ( 2 * offset + 1 , -1  ));
+        return solve(nums , target , 0 , 0 , offset , dp);
     }
 };

@@ -1,36 +1,25 @@
 class Solution {
 public:
 
-    int solve(vector<int>& prices , int index ,  int canBuy ,  vector<vector<int>>& dp){
+    int maxProfit(vector<int>& prices) {     
 
-        if(index >= prices.size()){
-           return 0;
-        }
+     vector<vector<int>> dp( prices.size()+2 , vector<int> ( 2 , 0 ));
 
-        if(dp[index][canBuy] != -1){
-            return dp[index][canBuy];
-        }
 
-        if(canBuy){
-           int take = -prices[index] + solve(prices , index + 1 , false , dp);
-           int skip = solve(prices , index + 1 , true , dp);
+    for(int index = prices.size() - 1 ; index >= 0 ; index-- ){
 
-           return dp[index][canBuy] = max( take , skip); 
-        }
-        else{
-            int sell = prices[index] + solve(prices , index + 2 , true , dp);
-            int hold = solve(prices , index + 1 , false , dp);
+      
+           int take = -prices[index] + dp[index+1][0];
+           int skip = dp[index+1][1];
+           dp[index][1] = max( take , skip);
+        
+       
+            int sell = prices[index] + dp[index+2][1];
+            int hold = dp[index+1][0];
+            dp[index][0] = max(sell , hold);
+    }      
 
-            return dp[index][canBuy] = max(sell , hold);
-        }    
-
-    }
-
-    int maxProfit(vector<int>& prices) {
-
-       vector<vector<int>> dp( prices.size()+1 , vector<int> ( 2 , -1 )); 
-
-       return solve(prices , 0 , true , dp);
+    return dp[0][1];
         
     }
 };

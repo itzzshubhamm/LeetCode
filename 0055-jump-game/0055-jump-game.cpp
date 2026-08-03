@@ -3,9 +3,9 @@ public:
     bool canJump(vector<int>& nums) {
 
         int farthest=0;
-        int n = nums.size();
+        // int n = nums.size();
 
-        for(int i=0 ; i < n ; i++){
+        for(int i=0 ; i < nums.size() ; i++){
             if(i > farthest){
                 return false;
             }

@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/itzzshubhamm/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/itzzshubhamm/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzzshubhamm/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
@@ -43,6 +44,7 @@
 | [0010-regular-expression-matching](https://github.com/itzzshubhamm/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/itzzshubhamm/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/itzzshubhamm/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/itzzshubhamm/LeetCode/tree/master/0072-edit-distance) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->

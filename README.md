@@ -34,6 +34,7 @@
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -217,4 +218,5 @@
 | [0055-jump-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/itzzshubhamm/LeetCode/tree/master/0134-gas-station) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->

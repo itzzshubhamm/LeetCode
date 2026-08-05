@@ -13,10 +13,14 @@ public:
             if(val[0] == target[0]) first = true;
             if(val[1] == target[1]) second = true;
             if(val[2] == target[2]) third = true;
+
+            if(first && second && third){
+                return true;
+            }
          
         }
 
-        return first && second && third;
+        return false;
         
     }
 };

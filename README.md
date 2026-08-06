@@ -41,6 +41,7 @@
 | [0005-longest-palindromic-substring](https://github.com/itzzshubhamm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 ## String
 |  |
@@ -112,6 +114,7 @@
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
@@ -217,6 +220,7 @@
 | [0045-jump-game-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/itzzshubhamm/LeetCode/tree/master/0134-gas-station) |
+| [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 <!---LeetCode Topics End-->

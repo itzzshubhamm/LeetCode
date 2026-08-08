@@ -184,6 +184,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
@@ -201,6 +202,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -223,4 +225,12 @@
 | [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

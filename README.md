@@ -184,6 +184,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -202,6 +203,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
@@ -228,9 +230,11 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->

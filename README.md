@@ -191,6 +191,7 @@
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |

@@ -13,7 +13,7 @@ class Solution {
 public:
    int preIndex = 0;
 
-   TreeNode* build(vector<int>& preorder, vector<int>& inorder, int inStart , int inEnd){
+   TreeNode* build(vector<int>& preorder, vector<int>& inorder, int inStart , int inEnd, unordered_map<int , int>& hashMap){
 
     if(inStart > inEnd){
         return nullptr;
@@ -23,13 +23,10 @@ public:
     preIndex++;
 
     TreeNode* root = new TreeNode(rootValue);
-    int inIndex;
-    for(inIndex = inStart ; inIndex <= inEnd ; inIndex++){
-        if(inorder[inIndex] == rootValue)break;
-    }
+    int inIndex = hashMap[rootValue];
 
-    root->left = build(preorder, inorder, inStart, inIndex-1);
-    root->right = build(preorder, inorder, inIndex+1, inEnd);
+    root->left = build(preorder, inorder, inStart, inIndex-1, hashMap);
+    root->right = build(preorder, inorder, inIndex+1, inEnd, hashMap);
 
     return root;
 
@@ -37,6 +34,11 @@ public:
 
 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return build(preorder, inorder, 0, inorder.size()-1);
+        unordered_map<int , int> hashMap;
+        for(int i=0; i<inorder.size(); i++){
+           hashMap[inorder[i]] =  i;
+        }
+
+        return build(preorder, inorder, 0, inorder.size()-1, hashMap);
     }
 };

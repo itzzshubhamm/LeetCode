@@ -45,6 +45,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzzshubhamm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
@@ -143,6 +144,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/itzzshubhamm/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
@@ -336,12 +339,14 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Geometry
 |  |

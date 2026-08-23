@@ -20,6 +20,7 @@
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/itzzshubhamm/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/itzzshubhamm/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -214,6 +215,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/itzzshubhamm/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/itzzshubhamm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
@@ -240,6 +242,7 @@
 | [0110-balanced-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/itzzshubhamm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itzzshubhamm/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -259,6 +262,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Greedy
 |  |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

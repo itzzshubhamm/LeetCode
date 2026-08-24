@@ -33,6 +33,7 @@
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/itzzshubhamm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
@@ -220,6 +221,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
@@ -250,6 +252,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
@@ -264,6 +267,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -377,4 +381,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

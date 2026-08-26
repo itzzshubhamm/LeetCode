@@ -1,5 +1,6 @@
 class Solution {
 public:
+    //using DFS approach
     void dfs(vector<vector<int>>& heights, int row, int col,
              vector<vector<bool>>& Ocean) {
         int rows = heights.size();
@@ -51,6 +52,7 @@ public:
         vector<vector<bool>> atlanticOcean(rows, vector<bool>(cols , false));
         vector<vector<int>> result;
 
+         //for pacific ocean
         for (int i = 0; i < cols; i++) {
             dfs(heights, 0, i, pacificOcean);
         }
@@ -58,13 +60,15 @@ public:
             dfs(heights, i, 0, pacificOcean);
         }
 
+        //for atlantic ocean
         for (int i = 0; i < cols; i++) {
             dfs(heights, rows - 1, i, atlanticOcean);
         }
         for (int i = 0; i < rows; i++) {
             dfs(heights, i, cols - 1, atlanticOcean);
         }
-
+         
+       //finding the common cell
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (pacificOcean[i][j] && atlanticOcean[i][j]) {

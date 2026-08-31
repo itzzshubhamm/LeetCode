@@ -105,6 +105,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/itzzshubhamm/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itzzshubhamm/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/itzzshubhamm/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
@@ -126,6 +127,7 @@
 | [0091-decode-ways](https://github.com/itzzshubhamm/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/itzzshubhamm/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -219,6 +221,7 @@
 | [0100-same-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itzzshubhamm/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/itzzshubhamm/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzzshubhamm/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/itzzshubhamm/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -414,4 +417,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/itzzshubhamm/LeetCode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->

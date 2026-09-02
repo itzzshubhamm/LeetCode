@@ -82,6 +82,7 @@
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -209,6 +210,7 @@
 | ------- |
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Memoization
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/itzzshubhamm/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Trie
@@ -282,6 +285,7 @@
 | [0210-course-schedule-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Topological Sort
 |  |
 | ------- |
@@ -421,4 +425,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->

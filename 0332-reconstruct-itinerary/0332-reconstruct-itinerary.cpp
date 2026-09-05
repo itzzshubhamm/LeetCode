@@ -7,7 +7,7 @@ public:
         greater<string>
     >> graph;
 
-    vector<string> ans;
+    vector<string> answer;
 
     void dfs(string airport) {
 
@@ -19,7 +19,7 @@ public:
             dfs(next);
         }
 
-        ans.push_back(airport);
+        answer.push_back(airport);
     }
 
     vector<string> findItinerary(vector<vector<string>>& tickets) {
@@ -30,8 +30,8 @@ public:
 
         dfs("JFK");
 
-        reverse(ans.begin(), ans.end());
+        reverse(answer.begin(), answer.end());
 
-        return ans;
+        return answer;
     }
 };

@@ -30,6 +30,7 @@
 | [0312-burst-balloons](https://github.com/itzzshubhamm/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/itzzshubhamm/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
@@ -132,6 +133,7 @@
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
@@ -154,6 +156,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/itzzshubhamm/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -169,6 +172,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
@@ -273,6 +277,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/itzzshubhamm/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -287,6 +292,7 @@
 | [0207-course-schedule](https://github.com/itzzshubhamm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -441,4 +447,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->

@@ -39,6 +39,7 @@
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/itzzshubhamm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -161,6 +162,7 @@
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/itzzshubhamm/LeetCode/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
@@ -189,6 +191,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itzzshubhamm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0300-longest-increasing-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
@@ -243,6 +246,7 @@
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -284,6 +288,7 @@
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
@@ -310,6 +315,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/itzzshubhamm/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
@@ -427,6 +433,7 @@
 | [0200-number-of-islands](https://github.com/itzzshubhamm/LeetCode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -447,6 +454,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -459,4 +467,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->

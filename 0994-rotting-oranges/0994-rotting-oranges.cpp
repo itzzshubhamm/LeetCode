@@ -27,7 +27,7 @@ public:
         while(!q.empty()){
             
             int size = q.size();
-            bool rotted=false;
+            bool rotten=false;
 
             for(int i=0; i<size; i++){
                 auto [r , c] = q.front();
@@ -36,30 +36,30 @@ public:
                 if(r-1 >=0 && grid[r-1][c] == 1){
                    grid[r-1][c] = 2;
                    q.push({r-1,c});
-                   rotted=true;
+                   rotten=true;
                    fresh--;
                 }
                 if(r+1 < rows && grid[r+1][c] == 1){
                    grid[r+1][c] = 2;
                    q.push({r+1,c});
                    fresh--;
-                   rotted=true;
+                   rotten=true;
                 }
                 if(c-1 >=0 && grid[r][c-1] == 1){
                    grid[r][c-1] = 2;
                    q.push({r,c-1});
                    fresh--;
-                   rotted=true;
+                   rotten=true;
                 }
                 if(c+1 < cols && grid[r][c+1] == 1){
                    grid[r][c+1] = 2;
                    q.push({r,c+1});
                    fresh--;
-                   rotted=true;
+                   rotten=true;
                 }
             }
 
-            if(rotted){
+            if(rotten){
                 time++;
             }
             

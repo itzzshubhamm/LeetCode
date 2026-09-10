@@ -3,7 +3,7 @@ public:
     const int INF = 1e9;
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
 
-        vector<vector<pair<int,int>>> graph(n+1);
+        vector<vector<pair<int,int>>> networkGraph(n+1);
         vector<int> timeAns(n+1,INF);
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
       
@@ -11,7 +11,7 @@ public:
         int u = time[0];
         int v = time[1];
         int w = time[2];
-        graph[u].push_back({v,w});
+        networkGraph[u].push_back({v,w});
        }
 
        timeAns[k] = 0;
@@ -27,7 +27,7 @@ public:
             continue;
         }
 
-        for(auto& neighbour : graph[nodeVal]){
+        for(auto& neighbour : networkGraph[nodeVal]){
             auto [next , takingTime] = neighbour;
             int newTime = time + takingTime;
 

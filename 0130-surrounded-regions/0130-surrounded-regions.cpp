@@ -23,10 +23,10 @@ public:
         // Mark this O as safe
         board[row][col] = 'S';
 
-        for(auto dir : directions) {
+        for(auto direction : directions) {
 
-            int newRow = row + dir[0];
-            int newCol = col + dir[1];
+            int newRow = row + direction[0];
+            int newCol = col + direction[1];
 
             dfs(newRow, newCol, board);
         }

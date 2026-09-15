@@ -4,7 +4,7 @@ public:
     long long shadowPairs(vector<int>& nums) {
 
         int n = nums.size();
-        vector<int> monotonic;
+        vector<int> monotonicStack;
 
         long long countAns = 0;
 
@@ -13,12 +13,12 @@ public:
             int currentNumber = nums[i];
 
             int left=0;
-            int right = monotonic.size();
+            int right = monotonicStack.size();
 
             while(left<right){
                 int mid = left + (right - left)/2;
                 
-                if(monotonic[mid]<currentNumber){
+                if(monotonicStack[mid]<currentNumber){
                     left = mid+1;
                 }else{
                     right = mid;
@@ -26,11 +26,11 @@ public:
             }
             countAns += left;
 
-            while(!monotonic.empty() && monotonic.back()>currentNumber){
-                monotonic.pop_back();
+            while(!monotonicStack.empty() && monotonicStack.back()>currentNumber){
+                monotonicStack.pop_back();
             }
 
-            monotonic.push_back(currentNumber);
+            monotonicStack.push_back(currentNumber);
 
         }
 

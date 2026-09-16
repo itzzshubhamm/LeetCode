@@ -2,16 +2,16 @@ class Solution {
 public:
     int shortestPathLength(vector<vector<int>>& graph) {
 
-        int n = graph.size();
+        int size = graph.size();
 
-        int allVisited = (1 << n) - 1;
+        int allVisited = (1 << size) - 1;
 
         queue<pair<int, int>> q;
 
-        vector<vector<bool>> visited(n, vector<bool>(1 << n, false));
+        vector<vector<bool>> visited(size, vector<bool>(1 << size, false));
 
         // Start from every node
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < size; i++) {
 
             int mask = (1 << i);
 

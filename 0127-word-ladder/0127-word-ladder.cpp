@@ -16,22 +16,22 @@ public:
             int size=q.size();
 
             while(size--){
-            string currWord = q.front();
-            if(currWord == endWord){
+            string currentWord = q.front();
+            if(currentWord == endWord){
               return num;
             }
             q.pop();
 
-            for(int i=0; i<currWord.size(); i++){
-                char curChar = currWord[i];
+            for(int i=0; i<currentWord.size(); i++){
+                char currentChar = currentWord[i];
                for(char ch='a'; ch<='z'; ch++){
-                  currWord[i] = ch;
-                  if(st.count(currWord)){
-                    q.push(currWord);
-                    st.erase(currWord);
+                  currentWord[i] = ch;
+                  if(st.count(currentWord)){
+                    q.push(currentWord);
+                    st.erase(currentWord);
                   }
                }
-               currWord[i]=curChar;
+               currentWord[i]=currentChar;
             }
             }
 

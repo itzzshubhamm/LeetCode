@@ -290,6 +290,7 @@
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Graph Theory
 |  |
@@ -302,6 +303,7 @@
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -490,4 +492,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->

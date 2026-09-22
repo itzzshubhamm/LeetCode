@@ -8,12 +8,12 @@ public:
          
 
         queue<pair<int,int>> q;
-        int fresh=0;
+        int freshOranges=0;
 
         for(int i=0; i<rows; i++){
             for(int j=0; j<cols; j++){
                 if(grid[i][j] == 1){
-                    fresh++;
+                    freshOranges++;
                     continue;
                 }
                 if(grid[i][j] == 0){
@@ -37,24 +37,24 @@ public:
                    grid[r-1][c] = 2;
                    q.push({r-1,c});
                    rotten=true;
-                   fresh--;
+                   freshOranges--;
                 }
                 if(r+1 < rows && grid[r+1][c] == 1){
                    grid[r+1][c] = 2;
                    q.push({r+1,c});
-                   fresh--;
+                   freshOranges--;
                    rotten=true;
                 }
                 if(c-1 >=0 && grid[r][c-1] == 1){
                    grid[r][c-1] = 2;
                    q.push({r,c-1});
-                   fresh--;
+                   freshOranges--;
                    rotten=true;
                 }
                 if(c+1 < cols && grid[r][c+1] == 1){
                    grid[r][c+1] = 2;
                    q.push({r,c+1});
-                   fresh--;
+                   freshOranges--;
                    rotten=true;
                 }
             }
@@ -66,7 +66,7 @@ public:
 
         }
 
-        if(fresh > 0){
+        if(freshOranges > 0){
             return -1;
         }
 

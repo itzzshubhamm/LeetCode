@@ -2,8 +2,8 @@ class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
 
-        int n = points.size();
-        vector<bool> mst(n,false);
+        int totalCoordinates = points.size();
+        vector<bool> mst(totalCoordinates,false);
 
         priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
 
@@ -12,7 +12,7 @@ public:
         
         q.push({0,0});
 
-        while(!q.empty() && vertexTaken < n){
+        while(!q.empty() && vertexTaken < totalCoordinates){
             auto[cost, index] = q.top();
             q.pop();
 
@@ -24,7 +24,7 @@ public:
             vertexTaken++;
             totalCost += cost;
 
-            for(int i=0; i<n; i++){
+            for(int i=0; i<totalCoordinates; i++){
                 if(mst[i]){
                     continue;
                 }

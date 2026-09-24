@@ -166,6 +166,7 @@
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/itzzshubhamm/LeetCode/tree/master/1046-last-stone-weight) |
+| [2699-modify-graph-edge-weights](https://github.com/itzzshubhamm/LeetCode/tree/master/2699-modify-graph-edge-weights) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -307,6 +308,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [2699-modify-graph-edge-weights](https://github.com/itzzshubhamm/LeetCode/tree/master/2699-modify-graph-edge-weights) |
 ## Topological Sort
 |  |
 | ------- |
@@ -457,6 +459,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [2699-modify-graph-edge-weights](https://github.com/itzzshubhamm/LeetCode/tree/master/2699-modify-graph-edge-weights) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |

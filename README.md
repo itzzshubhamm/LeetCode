@@ -25,6 +25,7 @@
 | [0213-house-robber-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/itzzshubhamm/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/itzzshubhamm/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/itzzshubhamm/LeetCode/tree/master/0312-burst-balloons) |
@@ -113,6 +114,7 @@
 | [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/itzzshubhamm/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/itzzshubhamm/LeetCode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzzshubhamm/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/itzzshubhamm/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
@@ -189,11 +192,13 @@
 | [0062-unique-paths](https://github.com/itzzshubhamm/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/itzzshubhamm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -224,6 +229,7 @@
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/itzzshubhamm/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/itzzshubhamm/LeetCode/tree/master/0338-counting-bits) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Memoization

@@ -35,6 +35,7 @@
 | [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0416-partition-equal-subset-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/itzzshubhamm/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0473-matchsticks-to-square](https://github.com/itzzshubhamm/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
@@ -85,6 +86,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/itzzshubhamm/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/itzzshubhamm/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -224,6 +226,7 @@
 | [0078-subsets](https://github.com/itzzshubhamm/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/itzzshubhamm/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/itzzshubhamm/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/itzzshubhamm/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
@@ -233,6 +236,7 @@
 | [0191-number-of-1-bits](https://github.com/itzzshubhamm/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/itzzshubhamm/LeetCode/tree/master/0338-counting-bits) |
+| [0473-matchsticks-to-square](https://github.com/itzzshubhamm/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Memoization
 |  |
@@ -466,6 +470,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/itzzshubhamm/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Shortest Path
 |  |

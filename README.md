@@ -49,6 +49,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/itzzshubhamm/LeetCode/tree/master/1046-last-stone-weight) |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
@@ -92,6 +93,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -522,4 +526,12 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/itzzshubhamm/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

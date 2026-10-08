@@ -80,6 +80,7 @@
 | [0139-word-break](https://github.com/itzzshubhamm/LeetCode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/itzzshubhamm/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/itzzshubhamm/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/itzzshubhamm/LeetCode/tree/master/0312-burst-balloons) |
@@ -199,6 +200,7 @@
 | [0070-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
@@ -261,6 +263,7 @@
 | [0207-course-schedule](https://github.com/itzzshubhamm/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/itzzshubhamm/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/itzzshubhamm/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/itzzshubhamm/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -534,4 +537,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->

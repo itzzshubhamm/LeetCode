@@ -52,6 +52,7 @@
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/itzzshubhamm/LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/itzzshubhamm/LeetCode/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Divide and Conquer
 |  |
 | ------- |

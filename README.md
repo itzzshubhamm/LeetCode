@@ -49,6 +49,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/itzzshubhamm/LeetCode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 | [1584-min-cost-to-connect-all-points](https://github.com/itzzshubhamm/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/itzzshubhamm/LeetCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -94,6 +95,7 @@
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1049-last-stone-weight-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -543,8 +545,13 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
+| [1049-last-stone-weight-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->

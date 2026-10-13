@@ -47,6 +47,7 @@
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/itzzshubhamm/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/itzzshubhamm/LeetCode/tree/master/1046-last-stone-weight) |
@@ -97,6 +98,7 @@
 | [0518-coin-change-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/itzzshubhamm/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
@@ -206,6 +208,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzzshubhamm/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/itzzshubhamm/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/itzzshubhamm/LeetCode/tree/master/0279-perfect-squares) |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/itzzshubhamm/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
@@ -510,6 +513,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Minimum Spanning Tree
 |  |
@@ -538,10 +542,12 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/itzzshubhamm/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/itzzshubhamm/LeetCode/tree/master/1406-stone-game-iii) |
 ## Knapsack Problem
 |  |

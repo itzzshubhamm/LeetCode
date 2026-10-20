@@ -43,6 +43,7 @@
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/itzzshubhamm/LeetCode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/itzzshubhamm/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/itzzshubhamm/LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/itzzshubhamm/LeetCode/tree/master/0853-car-fleet) |
@@ -133,6 +134,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/itzzshubhamm/LeetCode/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/itzzshubhamm/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/itzzshubhamm/LeetCode/tree/master/0846-hand-of-straights) |
 ## String
@@ -155,6 +157,7 @@
 | [0332-reconstruct-itinerary](https://github.com/itzzshubhamm/LeetCode/tree/master/0332-reconstruct-itinerary) |
 | [0424-longest-repeating-character-replacement](https://github.com/itzzshubhamm/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/itzzshubhamm/LeetCode/tree/master/0567-permutation-in-string) |
+| [0752-open-the-lock](https://github.com/itzzshubhamm/LeetCode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/itzzshubhamm/LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/itzzshubhamm/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -280,6 +283,7 @@
 | [0684-redundant-connection](https://github.com/itzzshubhamm/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/itzzshubhamm/LeetCode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/itzzshubhamm/LeetCode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/itzzshubhamm/LeetCode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/itzzshubhamm/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/itzzshubhamm/LeetCode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/itzzshubhamm/LeetCode/tree/master/0994-rotting-oranges) |
@@ -482,6 +486,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/itzzshubhamm/LeetCode/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/itzzshubhamm/LeetCode/tree/master/0752-open-the-lock) |
 ## Bitmask
 |  |
 | ------- |
